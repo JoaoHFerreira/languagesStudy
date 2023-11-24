@@ -2,14 +2,14 @@ import random
 
 class LanguageTarget:
     LANGUAGES = [
-        "Lua",
+        # "Lua", After a brief study about Lua, the conclusion was that I need to go slowly in programming language, I'll focus first in Go and Rust, when I felt more capable I'll add a new language.
         "Go",
         "Rust",
-        "Java",
-        "Scala",
-        "Clojure",
-        "C++",
-        "C"
+        # "Java",
+        # "Scala",
+        # "Clojure",
+        # "C++",
+        # "C"
     ]
     SPACE_CHAR = " "
     
