@@ -40,3 +40,8 @@ To ensure the highest quality and functionality, the Random Language Study Selec
 * Convert storage file to database, begin with sqlite;
 * Evolve the project to random learner, given a list automaticly choose what to study
 * create content tables, in a data folder?
+
+
+
+# Projects
+* fileorganizer rewriteen in Rust TODO . repo link
